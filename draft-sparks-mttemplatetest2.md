@@ -19,28 +19,25 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Template Test 2"
+abbrev: "tt2"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-sparks-mttemplatetest2
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: ART
+workgroup: SIPCORE Working Group
 keyword: Internet-Draft
 venue:
-  group: WG
+  group: SIPCORE
   type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  mail: sipcore@example.com
+  github: rjsparks/draft-sparks-mttemplatetest2
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Robert Sparks
+    email: rjsparks@nostrum.com
 
 normative:
 
